@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="122mm"
+   height="120mm"
+   viewBox="0 0 122 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="desenho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="388.92558"
+     inkscape:cy="647.76226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4451"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4447" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4449" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2434"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2432" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient840"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop838" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2428"
+       x="-0.081060543"
+       y="-0.13359979"
+       width="1.1621211"
+       height="1.2671996">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.0780786"
+         id="feGaussianBlur2430" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.265;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter2428)"
+       id="rect111"
+       width="63.161289"
+       height="38.322578"
+       x="35.483871"
+       y="52.870972"
+       transform="matrix(1.346273,0,0,1.4393584,-22.139943,-30.554991)" />
+    <rect
+       style="fill:#710080;fill-opacity:1;stroke:#151db0;stroke-width:5.10182;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect111-9"
+       width="85.032341"
+       height="55.159924"
+       x="14.166006"
+       y="34.819748" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path9633"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="55.709679"
+       sodipodi:cy="60.677418"
+       sodipodi:r1="17.506174"
+       sodipodi:r2="8.753087"
+       sodipodi:arg1="-0.30893074"
+       sodipodi:arg2="0.31938779"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 72.387097,55.354838 64.020103,63.425759 65.925359,74.893817 55.663913,69.430385 45.345898,74.786216 47.37097,63.338708 39.08883,55.180735 50.601839,53.569218 55.80121,43.171483 60.891569,53.623019 Z"
+       inkscape:transform-center-x="-0.036419967"
+       inkscape:transform-center-y="-1.9759349"
+       transform="matrix(1.287722,0,0,1.2013438,-15.504782,-11.885861)" />
+  </g>
+</svg>
